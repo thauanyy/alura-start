@@ -1,3 +1,20 @@
 body{
-    background-color: #9fbffa;
+    background-color: #000000;
+    color: #ffffff;
+
+}
+.cabeçalho{ 
+  display: flex;
+   justify-content: space-around;
+   align-items: center;
+}
+
+.cabeçalho-lista-item{
+   display: inline-block; 
+   margin: 0 16px;
+
+}
+
+.logo{
+    width: 25%;
 }
