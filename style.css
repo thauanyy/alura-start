@@ -7,11 +7,13 @@ body{
   display: flex;
    justify-content: space-around;
    align-items: center;
+   padding: 24px;
 }
 
 .cabeçalho-lista-item{
    display: inline-block; 
-   margin: 0 16px;
+   margin: 0 18px;
+   font-size: 24px;
 
 }
 
