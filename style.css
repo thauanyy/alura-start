@@ -14,9 +14,12 @@ body{
    display: inline-block; 
    margin: 0 18px;
    font-size: 24px;
-
 }
 
 .logo{
     width: 25%;
+}
+
+.escola-img{
+    width: 40%;
 }
