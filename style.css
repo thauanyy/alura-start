@@ -1,5 +1,5 @@
 body{
-    background-color: #000000;
+    background-color: #083c5a ;
     color: #ffffff;
 
 }
@@ -23,3 +23,14 @@ body{
 .escola-img{
     width: 40%;
 }
+
+.escola{
+    background-image: linear-gradient(#083c5a, #0bf0b7 );
+    justify-content: center;
+    align-items: center;
+}
+
+.escola-div-conteudo{
+    width: 35%;
+}
+
